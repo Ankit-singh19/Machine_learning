@@ -1,0 +1,9 @@
+LICENSE
+setup.py
+linear_regression.egg-info/PKG-INFO
+linear_regression.egg-info/SOURCES.txt
+linear_regression.egg-info/dependency_links.txt
+linear_regression.egg-info/requires.txt
+linear_regression.egg-info/top_level.txt
+test/test_core.py
+test/test_metrics.py
